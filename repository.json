@@ -1,0 +1,9 @@
+{
+    "name": "OPKG Offical Repository",
+    "uuid": "0d132e53-c313-4396-a343-7a03b429c909",
+    "signature": "",
+    "contents": {
+        "repositories": [],
+        "packages": []
+    }
+}
