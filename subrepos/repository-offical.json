@@ -1,0 +1,10 @@
+{
+    "id": "opkg-offical",
+    "signature": "",
+    "contents": {
+        "repositories": [],
+        "packages": [
+            "https://raw.githubusercontent.com/OcilDiamond/opkg/master/packages.json"
+        ]
+    }
+}

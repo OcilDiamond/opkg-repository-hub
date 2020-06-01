@@ -1,9 +1,15 @@
 {
-    "name": "OPKG Offical Repository",
-    "uuid": "0d132e53-c313-4396-a343-7a03b429c909",
+    "name": "OPKG Repository Hub",
+    "id": "opkg-hub",
     "signature": "",
     "contents": {
-        "repositories": [],
-        "packages": []
+        "repositories": [
+            "https://raw.githubusercontent.com/OcilDiamond/opkg-repository-hub/master/repository.json",
+            "https://raw.githubusercontent.com/OcilDiamond/opkg-repository-hub/master/subrepos/repository-offical.json",
+            "https://raw.githubusercontent.com/OcilDiamond/opkg-repository-hub/master/subrepos/repository-universal.json",
+            "https://raw.githubusercontent.com/OcilDiamond/opkg-repository-hub/master/subrepos/repository-openos.json",
+            "https://raw.githubusercontent.com/OcilDiamond/opkg-repository-hub/master/subrepos/repository-plan9k.json"
+        ],
+        "packages": {}
     }
 }

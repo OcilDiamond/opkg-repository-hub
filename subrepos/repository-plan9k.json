@@ -1,0 +1,11 @@
+{
+    "id": "opkg-plan9k",
+    "signature": "",
+    "requirements": {
+        "platforms": {"plan9k": "*"}
+    },
+    "contents": {
+        "repositories": [],
+        "packages": []
+    }
+}

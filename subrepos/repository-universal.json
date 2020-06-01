@@ -1,0 +1,11 @@
+{
+    "id": "opkg-universal",
+    "signature": "",
+    "requirements": {
+        "platforms": {"openos": "1.7.4"}
+    },
+    "contents": {
+        "repositories": [],
+        "packages": []
+    }
+}
